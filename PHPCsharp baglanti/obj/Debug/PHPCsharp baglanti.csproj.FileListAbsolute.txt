@@ -1,0 +1,72 @@
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\PHPCsharp baglanti.exe.config
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\PHPCsharp baglanti.exe
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\PHPCsharp baglanti.pdb
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\Google.Protobuf.dll
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\MySql.Data.dll
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Buffers.dll
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Memory.dll
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\ZstdNet.dll
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\Google.Protobuf.pdb
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\Google.Protobuf.xml
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\MySql.Data.xml
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Buffers.xml
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Memory.xml
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp_baglanti.Form1.resources
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp_baglanti.Properties.Resources.resources
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.csproj.GenerateResource.cache
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.csproj.CopyComplete
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.exe
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.pdb
+C:\Users\kamil\source\repos\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp_baglanti.Form2.resources
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\PHPCsharp baglanti.exe.config
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\PHPCsharp baglanti.exe
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\PHPCsharp baglanti.pdb
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\BouncyCastle.Crypto.dll
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\Google.Protobuf.dll
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\K4os.Compression.LZ4.dll
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\K4os.Hash.xxHash.dll
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\MySql.Data.dll
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Buffers.dll
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Memory.dll
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Numerics.Vectors.dll
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\Ubiety.Dns.Core.dll
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\ZstdNet.dll
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\BouncyCastle.Crypto.xml
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\Google.Protobuf.pdb
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\Google.Protobuf.xml
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\K4os.Compression.LZ4.xml
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\K4os.Hash.xxHash.xml
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\MySql.Data.xml
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Buffers.xml
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Memory.xml
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Numerics.Vectors.xml
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.csproj.AssemblyReference.cache
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.csproj.SuggestedBindingRedirects.cache
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp_baglanti.Form1.resources
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp_baglanti.Form2.resources
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp_baglanti.Properties.Resources.resources
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.csproj.GenerateResource.cache
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.csproj.CoreCompileInputs.cache
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.csproj.CopyComplete
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.exe
+E:\SON UPLOAD\visual studio\PHPCsharp baglanti\PHPCsharp baglanti\obj\Debug\PHPCsharp baglanti.pdb
